@@ -9,4 +9,5 @@ npx skills add https://github.com/dittofleet/skills
 ```
 
 Note: remote-session assumes the [dropcube](https://github.com/dittofleet/dropcube)
-skill is installed.
+skill is installed. stitch-images needs ImageMagick on the machine the agent
+runs on.
