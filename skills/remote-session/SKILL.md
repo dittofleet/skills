@@ -1,6 +1,7 @@
 ---
 name: remote-session
 description: User-invoked at the start of a remote session.
+disable-model-invocation: true
 ---
 
 The user is accessing this session from a remote machine, not the machine you are running on.
