@@ -1,5 +1,5 @@
 ---
-name: remote-session
+name: remote-access
 description: User-invoked at the start of a remote session.
 disable-model-invocation: true
 ---
