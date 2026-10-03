@@ -1,3 +1,5 @@
+<img src="assets/icon.svg" width="80" alt="skills icon">
+
 # skills
 
 Skills for multi-environment agentic development.
